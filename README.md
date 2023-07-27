@@ -56,15 +56,21 @@ Moving on to the **"new customer list" sheet**, we find no null values in the fi
 
 In the **gender** column, we encounter inconsistencies, such as the presence of "u" instead of "f" or "m" for female and male, respectively. Since "u" does not convey meaningful information, we will disregard this entry for consistency.
 
-Furthermore, in the **demographics** section, we also address inconsistencies in the gender column by converting all "female" entries to "f" and all "male" entries to "m."
-
 As we continue with the data, we encounter null values in the **job_title** and **job_industry_category** columns. To maintain data integrity, we will remove these null values from both columns.
+All the other coloumns looks fine to me.
+
+Furthermore, in the **"CustomerDemographics Sheet"** section, we also address inconsistencies in the gender column by converting all "female" entries to "f" and all "male" entries to "m."
+and some blanks in last name columns.
 
 Additionally, we come across a column labeled "default," which appears irrelevant to the dataset. Hence, we will exclude this column from the data set altogether.
 
-Finally, while analyzing the customer address column, we observe that it serves as a primary key and contains unique values, warranting no changes.
+Finally, while analyzing the **"customer address sheet"**, we observe that it serves as a primary key and contains unique values, warranting no changes.
 
 To summarize, we have identified several data quality issues in the dataset, including null values, inconsistencies in the gender column, and irrelevant data in the "default" column. To address these issues, we have removed null values, rectified inconsistencies in the gender column, and excluded the "default" column from the dataset. By taking these measures, we can enhance the data integrity and reliability of the dataset.
+
+<img width="605" alt="Screenshot 2023-07-27 at 1 44 05 PM" src="https://github.com/Nidhiwa/KPMG-VIRTUAL-INTERNSHIP/assets/88158951/f364bc8f-0fdb-449d-be9a-6716bf7355f4">
+
+
 
 
 
