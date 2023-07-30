@@ -8,8 +8,11 @@ Sprocket Central Pty Ltd, a medium-sized company specializing in bicycles and cy
 The client furnished KPMG with three distinct datasets, namely:
 
 Customer Demographic
+
 Customer Addresses
+
 Transactions data covering the past three months
+
 As part of my participation in the KPMG data analytics virtual internship program, I undertook the role of a Data Analyst and completed three specific tasks related to these datasets.
 
 **Data Quality Evaluation:** Evaluating the quality and completeness of the data in readiness for analysis.
