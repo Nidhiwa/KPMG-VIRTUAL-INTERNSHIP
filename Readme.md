@@ -1,7 +1,7 @@
 # KPMG-VIRTUAL-INTERNSHIP
 
 
-**Background Information*
+**Background Information**
 
 Sprocket Central Pty Ltd, a medium-sized company specializing in bicycles and cycling accessories, operates in Australia. Their main area of concern revolves around their customer and transactional data. Although they possess a substantial dataset concerning their customers, the company's team is uncertain about the most effective way to analyze this data to enhance their marketing strategy and achieve optimization.
 
